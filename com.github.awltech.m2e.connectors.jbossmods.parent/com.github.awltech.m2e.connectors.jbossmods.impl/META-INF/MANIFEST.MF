@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Core
+Bundle-SymbolicName: com.github.awltech.m2e.connectors.jbossmods.impl;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Worldline
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.m2e.core;bundle-version="[1.4.0,2.0.0)"
