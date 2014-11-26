@@ -9,8 +9,8 @@
 		<tycho-version>0.20.0</tycho-version>
 		<tycho-groupid>org.eclipse.tycho</tycho-groupid>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<platform-version-name>kepler</platform-version-name>
-		<platform-tag>e43x</platform-tag>
+		<platform-version-name>luna</platform-version-name>
+		<platform-tag>e44x</platform-tag>
 		<maven.javadoc.skip>true</maven.javadoc.skip>
 		<release-type>SNAPSHOT</release-type>
 		<format>'N'yyyyMMdd'-'HHmm'-${platform-tag}-${release-type}'</format>
